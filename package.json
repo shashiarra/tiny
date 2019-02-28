@@ -1,0 +1,15 @@
+{
+  "name": "@askreddy17/tiny",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "repository": "shashiarra/tiny",
+  "author": "sarra",
+  "license": "MIT",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "askreddy17"
+  ]
+}
